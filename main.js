@@ -149,4 +149,4 @@ client.on('guildMemberAdd', member => {
     channel.send(`Welcome to the server, ${member}`);
   });
 
-client.login('NzYzNTAyNTcxMTA5MDg5Mjgy.X34pLg.lmSvXDCslUaJp098xABluDajmHA');
+client.login('');
